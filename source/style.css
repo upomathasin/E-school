@@ -1,0 +1,148 @@
+body{
+    margin-: 0;
+    padding: 0;
+}
+.col-md-2{
+    margin-top: 10px;
+}
+/********
+ nav design
+***********/
+.logo img{
+    height: 100px;
+    width: 100px;
+
+}
+.logo{
+    background-attachment:blue;
+}
+
+.section{
+    background-color: #21B573;
+}
+
+
+
+
+
+
+
+
+
+
+#sign{
+    background:#21B573;
+    color: #ffffff;
+    border-radius: 33px;
+    padding: 5px 20px;
+    flex-direction: row;
+}
+/****************************
+ Slide
+****************************/
+.silder-text{
+    color: #21B573;
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+}
+.silder-text p{
+    font-family: tahoma;
+}
+.left-site-text h1{
+    font-weight: bold;
+    font-family: poppin;
+}
+.left-site-text {
+    padding: 50px 10px;
+}
+.left-text{
+    color: #FD511A;
+    font-family: poppin;
+    font-size: 18px;
+}
+.hero-section{
+    padding: 50px 0;
+}
+.hero-section h1{
+    line-height: 1.5em;
+}
+.site-text-bottom{
+    color: #6C6B6B;
+}
+#button{
+    background: #21B573;
+    border-radius: 30px;
+    padding: 10px 36px;
+}
+/****************************
+ Card section
+****************************/
+#card img{
+    width: 30%;
+}
+.card-text{
+    color: #585859;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card{
+}
+#first-icon{
+    background-color:#F8FFFB;
+    text-align: center;
+    border-radius: 10px;
+}
+#secont-icon{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 60px;
+    border-radius: 10px;
+}
+.service{
+    margin-top: 50px;
+}
+.header-tex{
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: tahoma;
+    text-align: center;
+    padding: 20px 0;
+}
+/****************************
+ Testimonial
+****************************/
+#testimonial{
+    padding: 100px 0;
+}
+.testimonial-man img{
+    width: 30%;
+    margin: auto;
+}
+.testimonial-text{
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: capitalize;
+    font-family: tahoma;
+    padding: 50px 20px;
+}
+.testionial-content{
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+ul li{
+    list-style: none;
+    font-weight: 400;
+    font-size: 14px;
+}
+.footer-text-left{
+    font-size: 14px;
+}
+#footer-area{
+    background-color: #282531;
+    color: #ffffff;
+    padding: 30px;
+}
+.footer-content{
+    font-size: 14px;
+    padding-top: 50px;
+}
